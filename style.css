@@ -14,3 +14,7 @@ li{
 figure{
     text-align: center;
 }
+/*tables*/
+table{
+    width: 400px;
+}
