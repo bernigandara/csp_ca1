@@ -26,3 +26,10 @@ th{
 th caption{
     text-align: center;
 }
+td{
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
