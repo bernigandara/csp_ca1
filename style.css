@@ -16,7 +16,7 @@ figure, table{ /*table and figured centered*/
 }
 /*tables*/
 table{
-    width: 400px;
+    width: 100%;
 }
 th{
     background-color: #ddd;
