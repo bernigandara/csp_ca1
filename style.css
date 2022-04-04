@@ -11,7 +11,7 @@ h2{
 li{
     color: lightgray;
 }
-figure{
+figure, table{ /*table and figured centered*/
     text-align: center;
 }
 /*tables*/
