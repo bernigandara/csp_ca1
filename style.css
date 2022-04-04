@@ -11,6 +11,6 @@ h2{
 li{
     color: lightgray;
 }
-figure{
+figure figcaption{
     text-align: center;
 }
