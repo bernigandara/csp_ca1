@@ -18,3 +18,11 @@ figure{
 table{
     width: 400px;
 }
+th{
+    background-color: #ddd;
+    font-size: 16px;
+    font-family: "Arial";
+}
+th caption{
+    text-align: center;
+}
